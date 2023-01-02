@@ -10,4 +10,4 @@ Vertex Group Utils is an add-on that adds utility to blender's vertex group. It 
 
 # Vertex Group Tools
 
-![VertexGroupTools](https://user-images.githubusercontent.com/79613445/210227612-02cef195-be97-488e-a8b4-f2cf32d388c9.png)
+![VertexGroupTools](https://user-images.githubusercontent.com/79613445/210227872-7862f3b1-0589-41d4-b9f8-5403630898ed.png)
