@@ -7,3 +7,7 @@ Vertex Group Utils is an add-on that adds utility to blender's vertex group. It 
   IMPORTANT!: This Addon Does not work very well with High Vertex Count Model
 
 ![Panel](https://user-images.githubusercontent.com/79613445/210227462-2e7d431d-28af-4f72-845b-9d6cdb7d0001.png)
+
+# Vertex Group Tools
+
+![VertexGroupTools](https://user-images.githubusercontent.com/79613445/210227612-02cef195-be97-488e-a8b4-f2cf32d388c9.png)
