@@ -11,3 +11,15 @@ Vertex Group Utils is an add-on that adds utility to blender's vertex group. It 
 # Vertex Group Tools
 
 ![VertexGroupTools](https://user-images.githubusercontent.com/79613445/210227872-7862f3b1-0589-41d4-b9f8-5403630898ed.png)
+
+# Highlighed Features
+
+- Create Vertex Group Quickly with less click
+- Solo, Hide / Unhide, Select / Deselect Part of mesh using Vertex Group
+- Join Objects as Vertex Groups
+- Separate Vertex Group into Objects
+- Material to Vertex Group
+- Set Origin to Vertex Group
+- Merge Vertex Group
+
+And More
