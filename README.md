@@ -1,6 +1,8 @@
 # Vertex Group Utils
 
-![Banner](https://Blenderboi.com/gallery/VertexGroupUtils/Banner.png)
+
+![banner](https://user-images.githubusercontent.com/79613445/230755429-91e61f10-8ff5-4dc7-9bf0-c03029bfe478.png)
+
 
 Vertex Group Utils is an add-on that adds utility to blender's vertex group. It adds many feature that turn vertex group into a tool for you to use in modelling process. This add-on can help you manage your meshes in edit mode by letting you to hide and unhide mesh base using vertex group.
 
