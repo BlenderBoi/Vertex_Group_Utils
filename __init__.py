@@ -3,10 +3,10 @@
 bl_info = {
     "name": "Vertex Group Utils",
     "author": "BlenderBoi",
-    "version": (2, 5, 8),
+    "version": (4, 0, 0),
     "blender": (3, 1, 0),
     "description": "Enhance vertex group by adding some utility.",
-    "warning": "",
+    "warning": "This is A Quick Hotfox that Might Break some Other Feature, but at least most feature probably works",
     "wiki_url": "",
     "category": "Vertex Group",
 }

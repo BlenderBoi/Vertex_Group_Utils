@@ -1719,9 +1719,9 @@ classes = (
 
             VGU_OT_Join_as_Group,
 
-            VGU_MT_PIE_Set_Active_Vertex_Group_Menu,
+            # VGU_MT_PIE_Set_Active_Vertex_Group_Menu,
             VGU_OT_Set_Active_Vertex_Group,
-            VGU_OT_PIE_Call_ActiveVertexGroup_Menu,
+            # VGU_OT_PIE_Call_ActiveVertexGroup_Menu,
             VGU_OT_LIST_Create_Bone_at_group,
 
             VGU_OT_Select_Unlocked_Vertex_Group,
